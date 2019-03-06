@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 // Description:This class creates an enumeration of all possible ranks a card can have
 namespace Durak
 {
-    public enum CardsRankEnum
+    public enum CardRanks
     {
         Ace = 1,
         Two,

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 // Description:This class creates an enumeration of all possible suits a card can have
 namespace Durak
 {
-    public enum CardsSuitEnum
+    public enum CardSuits
     {
 		Club,
 		Diamond,

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Durak
 {
-    public class Cards : ICloneable
+    public class Cards 
     {
         public readonly CardSuits suit;
         public readonly CardRanks rank;

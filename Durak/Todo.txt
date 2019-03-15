@@ -1,0 +1,15 @@
+Here are the things we need to do:
+
+Create Classes
+	- Card
+	- Deck
+	- Gameplay
+	- Player
+
+Create a UML Design
+	- This will show how our classes interact with each other
+
+EACH MEMBER SHOULD HAVE A GITHUB ACCOUNT
+
+For now I think we sohuld work on the Class Card
+	- Break it down into few parts and share the work.
